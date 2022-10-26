@@ -1,0 +1,19 @@
+{
+  "name": "next-simple-toast",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPabllo/next-simple-toast.git"
+  },
+  "author": "Juan Pablo <juanpablo.codes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanPabllo/next-simple-toast/issues"
+  },
+  "homepage": "https://github.com/JuanPabllo/next-simple-toast#readme",
+  "description": "Add beautiful notifications to your React app",
+  "scripts": {
+    "test": "jest"
+  }
+}
